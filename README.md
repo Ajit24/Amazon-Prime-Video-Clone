@@ -23,4 +23,6 @@ Build a full stack clone of the Prime Video website
 - Payment page which calculates the subscription prices dynamically.
 
 ## A glimpse of the project: —
--- We tried to implement a workflow where the user could do the following things:
+- We tried to implement a workflow where the user could do the following things:
+# Landing Page :
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajit24&" alt="ajit24" />
