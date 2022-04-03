@@ -32,5 +32,11 @@ Build a full stack clone of the Prime Video website
 ## Sign-up/Login Page :
 <img align="center" src="https://raw.githubusercontent.com/Ajit24/portfolio-1/main/ss4/Screenshot%20(349).png" alt="landing-page" />
 <img align="center" src="https://raw.githubusercontent.com/Ajit24/portfolio-1/main/ss4/Screenshot%20(350).png" alt="landing-page" />
+## Home/Movies Page :
+<img align="center" src="https://raw.githubusercontent.com/Ajit24/portfolio-1/main/ss4/Screenshot%20(354).png" alt="landing-page" />
+## Play Movie Page :
+<img align="center" src="https://raw.githubusercontent.com/Ajit24/portfolio-1/main/ss4/Screenshot%20(355).png" alt="landing-page" />
+
+
 
 
