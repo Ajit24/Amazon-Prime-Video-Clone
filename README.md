@@ -37,6 +37,7 @@ Build a full stack clone of the Prime Video website
 ## Play Movie Page :
 <img align="center" src="https://raw.githubusercontent.com/Ajit24/portfolio-1/main/ss4/Screenshot%20(355).png" alt="landing-page" />
 
-
+This has been a great and wonderful experience for us, We have learned a lot of new things, explore the website to understand every nook and corner of its functionality divide the work according to time, and finally done this project within the given time.
+### Thank you Masai School for assigning this lovely project to us.
 
 
