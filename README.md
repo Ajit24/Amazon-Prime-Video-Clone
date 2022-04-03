@@ -5,11 +5,12 @@ Prime Video is Amazon's subscription video on-demand over-the-top streaming and 
 ## Project Statement :
 Build a full stack clone of the Prime Video website
 
-## Tech Stack used :
-# Front-end
-# HTML
-# CSS
-# JavaScript
-# Back-end
-# NodeJS
-# MongoDB
+## Technology Stack Used:
+- HTML
+- CSS
+- JAVASCRIPT
+- REACTJS
+- EXPRESS
+- MONGODB
+- NODEJS
+- MONGOOSE
