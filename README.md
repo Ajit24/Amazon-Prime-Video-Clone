@@ -26,3 +26,6 @@ Build a full stack clone of the Prime Video website
 - We tried to implement a workflow where the user could do the following things:
 # Landing Page :
 <img align="center" src="https://raw.githubusercontent.com/Ajit24/portfolio-1/main/ss4/Screenshot%20(346).png" alt="landing-page" />
+<img align="center" src="https://raw.githubusercontent.com/Ajit24/portfolio-1/main/ss4/Screenshot%20(347).png" alt="landing-page" />
+<img align="center" src="https://raw.githubusercontent.com/Ajit24/portfolio-1/main/ss4/Screenshot%20(348).png" alt="landing-page" />
+
