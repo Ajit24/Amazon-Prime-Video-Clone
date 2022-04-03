@@ -14,3 +14,13 @@ Build a full stack clone of the Prime Video website
 - MONGODB
 - NODEJS
 - MONGOOSE
+
+## Features
+- There is login and logout functionality.
+- Elegant navigation bar for easy navigation between pages.
+- Users can view the Shows/movies on Home page.
+- Users can add the Shows/movies into wish-list bag from the Shows/movies detail page.
+- Payment page which calculates the subscription prices dynamically.
+
+## A glimpse of the project: —
+-- We tried to implement a workflow where the user could do the following things:
